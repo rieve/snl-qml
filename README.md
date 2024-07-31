@@ -4,3 +4,5 @@ This repo consists of a complete model setup for training images to classify the
 You can find the dataset we have created here: https://www.kaggle.com/datasets/jatinbhusal/word-based-nepali-sign-language/data
 
 Published paper: https://ictceel.khwopaconference.com/uploads/conferencepaper/fullpaper/1159.pdf
+
+Detailed report: https://elibrary.khwopa.edu.np/handle/123456789/675
